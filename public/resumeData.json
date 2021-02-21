@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Gerard Torrent",
+    "description":"Hey you all! Welcome to my website",
+    "image":"Myself.jpeg",
+    "bio":"I'm an economist that I become a data guy. My interest are related to all data sector and normally I research data related to public policies, urbanism, mobility and transportation. Also, I do a lot of work related to accounting and business development on NGOs. Sometimes, I try to create art with my computer",
+    "contactmessage":"Feel free to send me a message!",
+    "email": "gtc0593@gmail.com",
+    "phone": "+34 630322026",
+    "github":"https://github.com/McRata",
+    "project":"https://github.com/McRata/McRata.github.io",
+    "address":{
+      "street":"Topete Street, 126",
+      "city":"Terrassa",
+      "state":"Spain",
+      "zip": "08221"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/gerard_torrent",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gtorrent/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/gerdtc/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/McRata",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of my hard skills",
+    "education":[
+      {
+        "school":"Autonomous University of Barcelona",
+        "degree":"Bachelor in Economy",
+        "graduated":"June 2016",
+        "description":"Focused in Econometrics, Industrial Organization, Public policies and Business Development. Final Project: Introduction to Blue Economy: Study Cases"
+      },
+      {
+        "school":"Seoul National University",
+        "degree":"UAB Mobility Program",
+        "graduated":"June 2016",
+        "description":"One year studying abroad, focused on Public policies, Econometrics and Urbanism."
+      },
+      {
+        "school":"University Polytechnic of Catalonia",
+        "degree":"Master in Science and Technology of Sustainability",
+        "graduated":"July 2018",
+        "description":"Focused in Industrial Organization, Public Policies, Urbanism, Complex Networks and Data Mining. Final Project: Analysis of Participation Policies of Terrassa"
+      }
+    ],
+    "work":[
+      {
+        "company":"Izakaya Tavernes Japonses",
+        "title":"All in one man",
+        "years":"June 2012 - August 2015",
+        "description":"I started as a delivery guy, then I work as waitress and sushi man. My main functions where related to serve and to manage stocks and help with supplier orders."
+      },
+      {
+        "company":"Izakaya Tavernes, SL",
+        "title":"Accounting and Operations",
+        "years":"Set 2015 - August 2018",
+        "description":"Helping in the Operative  and Accounting departments. Improving the deliveries and special offers and the reducing costs. Also, I had been creating all the data sheets and scripts using VBA."
+      },
+      {
+        "company":"Optimissa Capital Markets Consulting",
+        "title":"QA Automation",
+        "years":"August 2018 - November 2019",
+        "description":"Being part of the foundation of the QA Automation Department. Creating QA and RPA applications with Java."
+      },
+      {
+        "company":"Seat:Code",
+        "title":"QA Engineer",
+        "years":"November 2019 - January 2020",
+        "description":"Being part of the foundation of the QA Chapter. Testing all the components of the mobility applications with different tools."
+      },
+      {
+        "company":"Seat:Code",
+        "title":"Data Engineer",
+        "years":"February 2020 - Present",
+        "description":"Being part of the Data team focused and finding insights of the production process of automobiles factory."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Programming Languages",
+        "level":"My first programming language is Java and is the one that I more capable.\nDuring my first years as a professional I learned VBA and I still use it for some projects related to business accounting and administration.\nOf course, for all my data projects I try to use Python as I have a knowledge base of R related to my academic studies.\nFinally, I'm constantly checking new libraries, frameworks or different languages so I try to be updated."
+      },
+      {
+        "name":"Data Bases",
+        "level":"Majority of time I have been working with relational data bases and I have been working normally with MySQL and also with PostgreSQL.\n\n For my last projects I have been working with MongoDB."
+      },
+      {
+        "name":"Data Visualization",
+        "level":"Normally I use Python and libraries as Matplotlib, ggplot or Seaborn to visualize data but, also, I have been working with some data software as Amplitude, Amazon Quicksight and Tableau."
+      },
+      {
+        "name":"Cloud Computing",
+        "level":"I have been working with  Amazon Web Service since I started working on Seat:Code there I learned all the technology offered by Amazon and I have been doing personal projects and courses to improve the knowledge."
+
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mobility Data Bcn",
+        "category":"Repository with all my analysis related to Mobility of Barcelona",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Processing Project",
+        "category":"All my personal projects related to processing",
+        "image":"",
+        "url":""
+      }
+    ]
+  }
+}
