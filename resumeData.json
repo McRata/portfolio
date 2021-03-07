@@ -93,25 +93,6 @@
         "years":"February 2020 - Present",
         "description":"Being part of the project DPP"
       }
-    ],
-    "skills":[
-      {
-        "name":"Programming Languages",
-        "level":"My first programming language is Java and is the one that I more capable.\nDuring my first years as a professional I learned VBA and I still use it for some projects related to business accounting and administration.\nOf course, for all my data projects I try to use Python as I have a knowledge base of R related to my academic studies.\nFinally, I'm constantly checking new libraries, frameworks or different languages so I try to be updated."
-      },
-      {
-        "name":"Data Bases",
-        "level":"Majority of time I have been working with relational data bases and I have been working normally with MySQL and also with PostgreSQL.\n\n For my last projects I have been working with MongoDB."
-      },
-      {
-        "name":"Data Visualization",
-        "level":"Normally I use Python and libraries as Matplotlib, ggplot or Seaborn to visualize data but, also, I have been working with some data software as Amplitude, Amazon Quicksight and Tableau."
-      },
-      {
-        "name":"Cloud Computing",
-        "level":"I have been working with  Amazon Web Service since I started working on Seat:Code there I learned all the technology offered by Amazon and I have been doing personal projects and courses to improve the knowledge."
-
-      }
     ]
   },
   "portfolio":{
@@ -120,7 +101,7 @@
         "title":"Mobility Data Bcn",
         "category":"Repository with all my analysis related to Mobility of Barcelona",
         "image":"",
-        "url":""
+        "url":"./TimeLineMap.html"
       },
       {
         "title":"Processing Project",
