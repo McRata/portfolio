@@ -20,7 +20,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: linear-gradient(to bottom, #164A41, #9DC88D);;}
+body { background: linear-gradient(to bottom, #333333, #6A4B4B);;}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -134,7 +134,7 @@ header .scrolldown a:hover { color: #F1B24A; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #164A41; }
+.opaque { background-color: #501616; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F1B24A; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #0762f9; }
+#about a:hover, #about a:focus { color: #F1B24A; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -212,10 +212,10 @@ ul#nav li.current a { color: #F1B24A; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #F1B24A;
+   background: #501616;
 }
 #about .download .button:hover {
-   background: #fff;
+   background: #F1B24A;
    color: #2B2B2B;
 }
 #about .download .button i {
@@ -259,7 +259,7 @@ ul#nav li.current a { color: #F1B24A; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 2px solid #164A41;
+   border-bottom: 2px solid #501616;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -889,7 +889,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #9DC88D !important;
+   background-color: #501616 !important;
 }
 .github-btn{
    background-color: #F1B24A !important;

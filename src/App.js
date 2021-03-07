@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+//import particlesJS from 'particles.js'
 
 class App extends Component {
 
@@ -22,10 +23,9 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
 
   }
-
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -49,11 +49,14 @@ class App extends Component {
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
-        <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
     );
   }
+
+
+//<!--<Contact data={this.state.resumeData.main}/>-->
+
 }
 
 export default App;

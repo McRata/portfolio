@@ -2,7 +2,7 @@
   "main": {
     "name":"Gerard Torrent",
     "description":"Hey you all! Welcome to my website",
-    "image":"Myself.jpeg",
+    "image":"profilepic.jpeg",
     "bio":"I'm an economist that I become a data guy. My interest are related to all data sector and normally I research data related to public policies, urbanism, mobility and transportation. Also, I do a lot of work related to accounting and business development on NGOs. Sometimes, I try to create art with my computer",
     "contactmessage":"Feel free to send me a message!",
     "email": "gtc0593@gmail.com",
@@ -10,12 +10,12 @@
     "github":"https://github.com/McRata",
     "project":"https://github.com/McRata/McRata.github.io",
     "address":{
-      "street":"Topete Street, 126",
+      "street":"C/ Topete, 126",
       "city":"Terrassa",
       "state":"Spain",
       "zip": "08221"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://mcrata.github.io/welcome",
     "resumedownload":"",
     "social":[
       {
@@ -91,7 +91,7 @@
         "company":"Seat:Code",
         "title":"Data Engineer",
         "years":"February 2020 - Present",
-        "description":"Being part of the Data team focused and finding insights of the production process of automobiles factory."
+        "description":"Being part of the project DPP"
       }
     ],
     "skills":[
