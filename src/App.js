@@ -54,9 +54,6 @@ class App extends Component {
     );
   }
 
-
-//<!--<Contact data={this.state.resumeData.main}/>-->
-
 }
 
 export default App;
